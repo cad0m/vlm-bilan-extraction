@@ -1,0 +1,472 @@
+{
+ "AA": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AA1": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AA2": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AA3": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AB": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AB1": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AB2": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AB3": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AB4": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AC": {
+  "brut": 559924.0,
+  "amort": 161315.67,
+  "n": 398608.33,
+  "n1": 455050.73
+ },
+ "AC1": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AC2": {
+  "brut": 177219.0,
+  "amort": 51806.21,
+  "n": 125412.79,
+  "n1": 143134.69
+ },
+ "AC3": {
+  "brut": 373705.0,
+  "amort": 105766.45,
+  "n": 267938.55,
+  "n1": 305309.05
+ },
+ "AC4": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AC5": {
+  "brut": 9000.0,
+  "amort": 3743.01,
+  "n": 5256.99,
+  "n1": 6606.99
+ },
+ "AC6": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AC7": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AD": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AD1": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AD2": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AD3": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AD4": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AE": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AE1": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AE2": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AT1": {
+  "brut": 559924.0,
+  "amort": 161315.67,
+  "n": 398608.33,
+  "n1": 455050.73
+ },
+ "AF": {
+  "brut": 221506.25,
+  "amort": null,
+  "n": 221506.25,
+  "n1": 290806.77
+ },
+ "AF1": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AF2": {
+  "brut": 221506.25,
+  "amort": null,
+  "n": 221506.25,
+  "n1": 290806.77
+ },
+ "AF3": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AF4": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AF5": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AG": {
+  "brut": 2960041.51,
+  "amort": null,
+  "n": 2960041.51,
+  "n1": 1707914.11
+ },
+ "AG1": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AG2": {
+  "brut": 2462210.41,
+  "amort": null,
+  "n": 2462210.41,
+  "n1": 1295962.86
+ },
+ "AG3": {
+  "brut": 4000.0,
+  "amort": null,
+  "n": 4000.0,
+  "n1": 4000.0
+ },
+ "AG4": {
+  "brut": 353831.1,
+  "amort": null,
+  "n": 353831.1,
+  "n1": 267951.25
+ },
+ "AG5": {
+  "brut": 100000.0,
+  "amort": null,
+  "n": 100000.0,
+  "n1": 100000.0
+ },
+ "AG6": {
+  "brut": 40000.0,
+  "amort": null,
+  "n": 40000.0,
+  "n1": 40000.0
+ },
+ "AG7": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AH": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AI": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "AT2": {
+  "brut": 3181547.76,
+  "amort": null,
+  "n": 3181547.76,
+  "n1": 1998720.88
+ },
+ "ATR": {
+  "brut": 5637.63,
+  "amort": null,
+  "n": 5637.63,
+  "n1": 845.77
+ },
+ "ATR1": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "ATR2": {
+  "brut": null,
+  "amort": null,
+  "n": null,
+  "n1": null
+ },
+ "ATR3": {
+  "brut": 5637.63,
+  "amort": null,
+  "n": 5637.63,
+  "n1": 845.77
+ },
+ "AT3": {
+  "brut": 5637.63,
+  "amort": null,
+  "n": 5637.63,
+  "n1": 845.77
+ },
+ "ATG": {
+  "brut": 3747109.39,
+  "amort": 161315.67,
+  "n": 3585793.72,
+  "n1": 2454617.38
+ },
+ "PA0": {
+  "n": null,
+  "n1": null
+ },
+ "PA1": {
+  "n": 100000.0,
+  "n1": 100000.0
+ },
+ "PA2": {
+  "n": null,
+  "n1": null
+ },
+ "PA3": {
+  "n": 100000.0,
+  "n1": 100000.0
+ },
+ "PA4": {
+  "n": null,
+  "n1": null
+ },
+ "PA5": {
+  "n": null,
+  "n1": null
+ },
+ "PA6": {
+  "n": null,
+  "n1": null
+ },
+ "PA7": {
+  "n": null,
+  "n1": null
+ },
+ "PA8": {
+  "n": -483691.1,
+  "n1": -586830.31
+ },
+ "PA9": {
+  "n": null,
+  "n1": null
+ },
+ "PA10": {
+  "n": 372505.36,
+  "n1": 103139.21
+ },
+ "PA": {
+  "n": -11185.74,
+  "n1": -383691.1
+ },
+ "PB": {
+  "n": null,
+  "n1": null
+ },
+ "PB1": {
+  "n": null,
+  "n1": null
+ },
+ "PB2": {
+  "n": null,
+  "n1": null
+ },
+ "PC": {
+  "n": null,
+  "n1": null
+ },
+ "PC1": {
+  "n": null,
+  "n1": null
+ },
+ "PC2": {
+  "n": null,
+  "n1": null
+ },
+ "PD": {
+  "n": null,
+  "n1": null
+ },
+ "PD1": {
+  "n": null,
+  "n1": null
+ },
+ "PD2": {
+  "n": null,
+  "n1": null
+ },
+ "PE": {
+  "n": null,
+  "n1": null
+ },
+ "PF": {
+  "n": null,
+  "n1": null
+ },
+ "PF1": {
+  "n": null,
+  "n1": null
+ },
+ "PF2": {
+  "n": null,
+  "n1": null
+ },
+ "PT1": {
+  "n": -11185.74,
+  "n1": -383691.1
+ },
+ "PG": {
+  "n": 2882234.28,
+  "n1": 1828051.6
+ },
+ "PG1": {
+  "n": 1814187.07,
+  "n1": 1109508.19
+ },
+ "PG2": {
+  "n": null,
+  "n1": null
+ },
+ "PG3": {
+  "n": 13236.59,
+  "n1": null
+ },
+ "PG4": {
+  "n": 21314.58,
+  "n1": 35260.93
+ },
+ "PG5": {
+  "n": 983496.04,
+  "n1": 613482.48
+ },
+ "PG6": {
+  "n": null,
+  "n1": null
+ },
+ "PG7": {
+  "n": 50000.0,
+  "n1": 69800.0
+ },
+ "PG8": {
+  "n": null,
+  "n1": null
+ },
+ "PH": {
+  "n": null,
+  "n1": null
+ },
+ "PI": {
+  "n": null,
+  "n1": null
+ },
+ "PT2": {
+  "n": 2882234.28,
+  "n1": 1828051.6
+ },
+ "PTR": {
+  "n": null,
+  "n1": null
+ },
+ "PTR1": {
+  "n": null,
+  "n1": null
+ },
+ "PTR2": {
+  "n": null,
+  "n1": null
+ },
+ "PTR3": {
+  "n": 714745.18,
+  "n1": 1010256.88
+ },
+ "PT3": {
+  "n": 714745.18,
+  "n1": 1010256.88
+ },
+ "PTG": {
+  "n": 3585793.72,
+  "n1": 2454617.38
+ }
+}
